@@ -1,5 +1,5 @@
 
-##Project Objective:
+#Project Objective:
 Develop a comprehensive and efficient system for recording and tracking patients' emergency room visits. The platform aims to provide accurate and timely reports for medical staff and administrators, thereby improving the overall management and analysis of emergency room visits to enhance patient care and optimize resource allocation.
 
 
